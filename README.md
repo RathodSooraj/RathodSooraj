@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RathodSooraj
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Java Development
 - 📫 How to reach me sanysuraj@gmail.com
 
